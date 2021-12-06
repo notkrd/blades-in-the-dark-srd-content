@@ -1,3 +1,7 @@
+# This fork
+
+Homebrew source for a personal Blades in the Dark based campaign with a setting focused on trade and travel.
+
 # Blades in the Dark System Reference Document
 
 This is the text version of the content found at https://bladesinthedark.com/. The text is available as both Markdown and HTML.
